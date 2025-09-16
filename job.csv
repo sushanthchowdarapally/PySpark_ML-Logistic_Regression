@@ -1,0 +1,501 @@
+StudentID,FirstName,LastName,Institute,Major,GPA,GraduationYear,Skills,InternshipExperience,ApplicationStatus,PreferredRole
+1,Aarav,Sharma,Indian Institute of Technology Bombay,Computer Science,8.9,2024,"Python, Java, Data Structures, Algorithms, SQL",Yes,Submitted,Software Engineer
+2,Riya,Singh,National Institute of Technology Trichy,Electronics and Communication Engineering,8.5,2025,"C++, Embedded Systems, MATLAB, IoT",Yes,In Review,Embedded Systems Engineer
+3,Aditya,Mishra,Indian Institute of Technology Hyderabad,Mechanical Engineering,7.8,2024,"CAD, SolidWorks, Thermodynamics, Manufacturing",No,Submitted,Mechanical Engineer
+4,Ishita,Jain,Indian Institute of Technology Delhi,Computer Science,9.2,2024,"Machine Learning, Python, TensorFlow, PyTorch",Yes,In Review,Data Scientist
+5,Pooja,Patel,Vellore Institute of Technology,Electronics and Communication Engineering,8.1,2025,"Verilog, VHDL, Digital Design, VLSI",No,Submitted,VLSI Design Engineer
+6,Rahul,Kumar,Indian Institute of Technology Madras,Civil Engineering,8.3,2024,"AutoCAD, Structural Analysis, GIS",Yes,Interview Scheduled,Civil Engineer
+7,Sneha,Gupta,National Institute of Technology Surathkal,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,In Review,Full Stack Developer
+8,Kunal,Verma,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2025,"Aerodynamics, Propulsion, CFD, MATLAB",No,Submitted,Aerospace Engineer
+9,Anjali,Yadav,Delhi Technological University,Information Technology,8.6,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,Rejected,Cybersecurity Analyst
+10,Siddharth,Sharma,National Institute of Technology Warangal,Computer Science,8.7,2024,"Android Development, Java, Kotlin, UI/UX",Yes,Interview Scheduled,Mobile App Developer
+11,Nisha,Reddy,National Institute of Technology, Hyderabad,Chemical Engineering,7.7,2025,"Chemical Process Design, Aspen Plus, Fluid Mechanics",No,Submitted,Process Engineer
+12,Akash,Mishra,Indian Institute of Technology Kharagpur,Electrical Engineering,8.4,2024,"Power Systems, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+13,Devika,Pillai,Indian Institute of Science, Bangalore,Data Science,9.5,2024,"R, Python, Statistical Modeling, Big Data",Yes,Interview Scheduled,Data Scientist
+14,Arjun,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.0,2025,"Thermodynamics, CAD, HVAC, Manufacturing",No,Submitted,Mechanical Engineer
+15,Tanya,Mehta,Indian Institute of Technology Roorkee,Architecture,8.2,2024,"AutoCAD, Revit, SketchUp, Urban Planning",Yes,In Review,Architect
+16,Varun,Joshi,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.6,2025,"Material Science, Metallurgy, Nondestructive Testing",No,Submitted,Metallurgical Engineer
+17,Priya,Yadav,National Institute of Technology Jaipur,Civil Engineering,8.5,2024,"Project Management, AutoCAD, Construction Management",Yes,In Review,Project Manager
+18,Ankit,Das,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"DevOps, AWS, Docker, Kubernetes",Yes,Interview Scheduled,DevOps Engineer
+19,Swati,Mehra,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD, Prototyping",Yes,In Review,UX/UI Designer
+20,Gaurav,Choudhary,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Power Electronics, MATLAB",Yes,Submitted,Power Engineer
+21,Shreya,Gupta,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Signal Processing, Digital Communication, Python",No,Submitted,Communications Engineer
+22,Kartik,Singh,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Structural Design, Geotechnical Engineering, SAP2000",Yes,Interview Scheduled,Structural Engineer
+23,Rohan,Kumar,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+24,Neha,Jain,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Cloud Computing, Microsoft Azure, Google Cloud Platform",Yes,Submitted,Cloud Engineer
+25,Abhishek,Patel,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Process Simulation, Chemical Kinetics, CHEMCAD",No,Submitted,Chemical Engineer
+26,Diya,Sharma,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Interview Scheduled,Data Analyst
+27,Vivek,Kumar,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"VLSI Design, Digital Logic, SPICE",Yes,In Review,VLSI Engineer
+28,Sana,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Python, Keras",Yes,Interview Scheduled,AI/ML Engineer
+29,Arnav,Mittal,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Circuit Design, Embedded Systems, IoT",Yes,In Review,Embedded Systems Engineer
+30,Kritika,Singh,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Microcontrollers, Raspberry Pi, Arduino",No,Submitted,Hardware Engineer
+31,Parth,Joshi,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Analysis, GIS",Yes,Submitted,Transportation Engineer
+32,Mitali,Gupta,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Cybersecurity, Cryptography, Network Security",Yes,Interview Scheduled,Cybersecurity Analyst
+33,Aditi,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Web Development, Angular, Node.js, REST APIs",Yes,In Review,Full Stack Developer
+34,Rohit,Kumar,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Powertrain, CAD",No,Submitted,Automotive Engineer
+35,Palak,Jain,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Water Treatment, Pollution Control",Yes,Submitted,Environmental Engineer
+36,Aryan,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"RF Engineering, Antenna Design, Communication Systems",No,Submitted,RF Engineer
+37,Siddhant,Verma,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Data Science, R, Python, SQL, Machine Learning",Yes,Interview Scheduled,Data Scientist
+38,Kavya,Reddy,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,In Review,Geotechnical Engineer
+39,Yash,Mishra,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Electronics, Smart Grids, MATLAB",Yes,Submitted,Electrical Engineer
+40,Disha,Singh,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mining Operations, Geostatistics, Mine Planning",No,Submitted,Mining Engineer
+41,Abhinav,Choudhary,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, CI/CD",Yes,In Review,Cloud Engineer
+42,Meera,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Power Systems, Renewable Energy, Grid Integration",Yes,Submitted,Power Engineer
+43,Rishabh,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"Thermodynamics, Fluid Mechanics, HVAC Design",Yes,In Review,Mechanical Engineer
+44,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioreactors, Fermentation",No,Submitted,Biochemical Engineer
+45,Sagar,Singh,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Structural Analysis, Building Information Modeling (BIM)",Yes,Interview Scheduled,Civil Engineer
+46,Divya,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+47,Vikram,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Tableau",Yes,Interview Scheduled,Data Analyst
+48,Anisha,Mishra,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Environmental Engineering, Waste Management, GIS",No,Submitted,Environmental Engineer
+49,Raj,Verma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Control Systems, CAD",Yes,In Review,Robotics Engineer
+50,Simran,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Python, R, Statistics",Yes,Interview Scheduled,Data Scientist
+51,Karan,Sharma,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Node.js, Express",Yes,Submitted,Full Stack Developer
+52,Priya,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, CAD, SolidWorks",No,Submitted,Mechanical Engineer
+53,Ayush,Gupta,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+54,Ananya,Patel,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, AutoCAD, BIM",Yes,In Review,Civil Engineer
+55,Saurabh,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Kotlin",Yes,Submitted,Mobile App Developer
+56,Divyansh,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, Propulsion, CFD",No,Submitted,Aerospace Engineer
+57,Shalini,Mishra,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+58,Rahul,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+59,Shruti,Singh,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+60,Abhinav,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+61,Pooja,Sharma,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+62,Arjun,Kumar,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+63,Sneha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+64,Vivek,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+65,Nisha,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+66,Siddharth,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+67,Anjali,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+68,Rohan,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+69,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+70,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+71,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+72,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+73,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+74,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+75,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+76,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+77,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+78,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+79,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+80,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+81,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+82,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+83,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+84,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+85,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+86,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+87,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+88,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+89,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+90,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+91,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+92,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+93,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+94,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+95,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+96,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+97,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+98,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+99,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+100,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+101,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+102,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+103,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+104,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+105,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+106,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+107,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+108,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+109,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+110,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+111,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+112,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+113,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+114,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+115,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+116,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+117,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+118,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+119,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+120,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+121,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+122,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+123,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+124,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+125,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+126,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+127,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+128,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+129,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+130,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+131,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+132,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+133,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+134,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+135,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+136,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+137,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+138,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+139,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+140,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+141,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+142,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+143,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+144,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+145,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+146,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+147,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+148,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+149,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+150,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+151,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+152,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+153,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+154,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+155,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+156,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+157,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+158,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+159,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+160,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+161,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+162,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+163,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+164,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+165,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+166,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+167,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+168,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+169,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+170,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+171,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+172,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+173,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+174,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+175,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+176,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+177,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+178,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+179,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+180,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+181,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+182,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+183,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+184,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+185,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+186,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+187,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+188,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+189,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+190,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+191,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+192,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+193,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+194,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+195,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+196,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+197,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+198,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+199,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+200,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+201,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+202,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+203,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+204,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+205,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+206,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+207,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+208,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+209,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+210,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+211,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+212,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+213,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+214,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+215,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+216,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+217,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+218,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+219,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+220,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+221,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+222,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+223,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+224,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+225,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+226,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+227,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+228,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+229,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+230,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+231,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+232,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+233,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+234,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+235,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+236,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+237,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+238,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+239,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+240,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+241,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+242,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+243,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+244,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+245,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+246,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+247,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+248,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+249,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+250,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+251,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+252,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+253,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+254,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+255,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+256,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+257,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+258,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+259,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+260,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+261,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+262,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+263,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+264,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+265,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+266,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+267,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+268,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+269,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+270,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+271,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+272,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+273,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+274,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+275,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+276,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+277,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+278,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+279,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+280,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+281,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+282,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+283,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+284,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+285,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+286,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+287,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+288,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+289,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+290,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+291,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+292,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+293,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+294,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+295,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+296,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+297,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+298,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+299,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+300,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+301,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+302,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+303,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+304,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+305,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+306,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+307,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+308,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+309,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+310,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+311,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+312,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+313,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+314,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+315,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+316,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+317,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+318,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+319,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+320,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+321,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+322,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+323,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+324,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+325,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+326,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+327,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+328,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+329,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+330,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+331,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+332,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+333,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+334,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+335,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+336,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+337,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+338,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+339,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+340,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+341,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+342,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+343,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+344,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+345,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+346,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+347,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+348,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+349,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+350,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+351,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+352,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+353,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+354,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+355,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+356,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+357,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+358,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+359,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+360,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+361,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+362,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+363,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+364,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+365,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+366,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+367,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+368,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+369,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+370,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+371,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+372,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+373,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+374,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+375,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+376,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+377,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+378,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+379,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+380,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+381,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+382,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+383,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+384,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+385,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+386,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+387,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+388,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+389,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+390,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+391,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+392,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+393,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+394,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+395,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+396,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+397,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+398,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+399,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+400,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+401,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+402,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+403,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+404,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+405,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+406,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+407,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+408,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+409,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+410,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+411,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+412,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+413,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+414,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+415,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+416,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+417,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+418,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+419,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+420,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+421,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+422,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+423,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+424,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+425,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+426,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+427,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+428,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+429,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+430,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+431,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+432,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+433,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+434,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+435,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+436,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+437,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+438,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+439,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+440,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+441,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+442,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+443,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+444,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+445,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+446,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+447,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+448,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+449,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+450,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+451,Riya,Sharma,Delhi Technological University,Information Technology,8.1,2025,"Cybersecurity, Network Security, Python",No,Submitted,Cybersecurity Analyst
+452,Aditya,Mehta,National Institute of Technology Warangal,Computer Science,9.1,2024,"Data Science, Machine Learning, Python, R",Yes,Interview Scheduled,Data Scientist
+453,Pooja,Kumari,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2024,"Process Design, Chemical Kinetics, Aspen Plus",Yes,In Review,Process Engineer
+454,Rahul,Verma,Indian Institute of Science, Bangalore,Data Science,9.4,2025,"Machine Learning, Deep Learning, TensorFlow, PyTorch",Yes,Interview Scheduled,AI/ML Engineer
+455,Neha,Singh,National Institute of Technology Rourkela,Mechanical Engineering,8.2,2024,"Robotics, Mechatronics, CAD",Yes,Submitted,Robotics Engineer
+456,Aman,Patel,Indian Institute of Technology Roorkee,Architecture,8.5,2024,"Urban Planning, AutoCAD, SketchUp",Yes,In Review,Architect
+457,Karan,Yadav,Indian Institute of Technology Varanasi,Metallurgical Engineering,7.7,2025,"Material Science, Thermodynamics, Phase Diagrams",No,Submitted,Metallurgical Engineer
+458,Shruti,Sharma,National Institute of Technology Jaipur,Civil Engineering,8.6,2024,"Construction Management, Project Planning, GIS",Yes,Interview Scheduled,Project Manager
+459,Rohan,Gupta,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Cloud Computing, AWS, Azure, DevOps",Yes,In Review,Cloud Engineer
+460,Anjali,Kumar,Indian Institute of Technology Hyderabad,Information Technology,8.8,2025,"UI/UX Design, Figma, Adobe XD",Yes,Submitted,UX/UI Designer
+461,Surbhi,Singh,Indian Institute of Technology Indore,Electrical Engineering,8.3,2024,"Renewable Energy, Solar Power, Wind Energy",Yes,Submitted,Power Engineer
+462,Akash,Mishra,National Institute of Technology Nagpur,Electronics and Communication Engineering,8.0,2025,"Digital Signal Processing, DSP, MATLAB",No,Submitted,Communications Engineer
+463,Divya,Patel,Indian Institute of Technology Mandi,Civil Engineering,7.9,2024,"Geotechnical Engineering, Foundation Design, Soil Mechanics",Yes,Interview Scheduled,Geotechnical Engineer
+464,Rahul,Jain,National Institute of Technology Warangal,Mechanical Engineering,8.6,2024,"HVAC Design, Thermodynamics, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+465,Shruti,Sharma,Indian Institute of Technology Bhubaneswar,Computer Science,8.7,2024,"Data Analytics, Tableau, Power BI, SQL",Yes,Submitted,Data Analyst
+466,Mohit,Kumar,National Institute of Technology Surat,Chemical Engineering,7.5,2025,"Polymer Science, Chemical Engineering, Process Simulation",No,Submitted,Polymer Engineer
+467,Neha,Gupta,Indian Institute of Technology Patna,Computer Science,9.0,2024,"Web Development, JavaScript, React, Node.js",Yes,Interview Scheduled,Full Stack Developer
+468,Aditya,Singh,Indian Institute of Technology Jodhpur,Electrical Engineering,8.2,2025,"Embedded Systems, IoT, C++, Python",Yes,In Review,Embedded Systems Engineer
+469,Priyanka,Jain,Indian Institute of Technology Hyderabad,Computer Science,9.3,2024,"Artificial Intelligence, Deep Learning, Keras, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+470,Vikram,Patel,Indian Institute of Technology Varanasi,Electrical Engineering,8.5,2024,"Power Electronics, Control Systems, MATLAB",Yes,In Review,Electrical Engineer
+471,Anjali,Yadav,National Institute of Technology Durgapur,Electronics and Communication Engineering,8.1,2025,"Robotics, Mechatronics, Arduino",No,Submitted,Robotics Engineer
+472,Sumit,Kumar,Indian Institute of Technology Gandhinagar,Civil Engineering,7.8,2024,"Transportation Engineering, Traffic Flow, GIS",Yes,Submitted,Transportation Engineer
+473,Aisha,Khan,Indian Institute of Technology Hyderabad,Computer Science,9.4,2024,"Data Science, Python, R, SQL, Power BI",Yes,Interview Scheduled,Data Scientist
+474,Rohan,Sharma,National Institute of Technology Calicut,Computer Science,8.9,2024,"Cybersecurity, Network Security, Ethical Hacking",Yes,In Review,Cybersecurity Analyst
+475,Nisha,Reddy,National Institute of Technology Warangal,Mechanical Engineering,8.0,2025,"Automotive Engineering, Vehicle Dynamics, CAD",No,Submitted,Automotive Engineer
+476,Gaurav,Singh,Indian Institute of Technology Tirupati,Chemical Engineering,7.7,2024,"Environmental Engineering, Air Pollution Control, MATLAB",Yes,Submitted,Environmental Engineer
+477,Shruti,Patel,National Institute of Technology Agartala,Electronics and Communication Engineering,8.4,2025,"Communication Systems, Digital Communication, MATLAB",No,Submitted,Communications Engineer
+478,Karan,Gupta,Indian Institute of Technology Palakkad,Computer Science,9.1,2024,"Web Development, JavaScript, React, Redux",Yes,Interview Scheduled,Full Stack Developer
+479,Megha,Singh,National Institute of Technology Silchar,Civil Engineering,8.3,2024,"Structural Design, Earthquake Engineering, SAP2000",Yes,In Review,Structural Engineer
+480,Rohit,Yadav,Indian Institute of Technology Goa,Electrical Engineering,8.6,2025,"Power Systems, High Voltage Engineering, MATLAB",Yes,Submitted,Power Engineer
+481,Sanjana,Mehra,Indian Institute of Technology Dhanbad,Mining Engineering,7.9,2024,"Mine Safety, Geotechnical Engineering, Rock Mechanics",No,Submitted,Mining Engineer
+482,Vikas,Kumar,Indian Institute of Technology Bhilai,Computer Science,8.8,2025,"Cloud Computing, AWS, Azure, GCP",Yes,In Review,Cloud Engineer
+483,Priya,Sharma,Indian Institute of Technology Jammu,Electrical Engineering,8.1,2024,"Renewable Energy, Solar Power, Control Systems",Yes,Submitted,Renewable Energy Engineer
+484,Mohit,Gupta,National Institute of Technology Patna,Mechanical Engineering,8.5,2024,"HVAC, CAD, SolidWorks, Fluid Mechanics",Yes,In Review,Mechanical Engineer
+485,Ankita,Singh,Indian Institute of Technology Hyderabad,Chemical Engineering,7.8,2025,"Biochemical Engineering, Bioprocess Engineering, MATLAB",No,Submitted,Biochemical Engineer
+486,Akash,Mishra,Indian Institute of Technology Mandi,Civil Engineering,8.7,2024,"Water Resource Engineering, Hydrology, GIS",Yes,Interview Scheduled,Water Resource Engineer
+487,Kriti,Yadav,National Institute of Technology Rourkela,Electronics and Communication Engineering,8.2,2024,"Embedded Systems, IoT, C++, Python, Arduino",Yes,In Review,Embedded Systems Engineer
+488,Ashish,Kumar,Indian Institute of Technology Roorkee,Computer Science,9.0,2024,"Data Analytics, SQL, Python, Power BI",Yes,Interview Scheduled,Data Analyst
+489,Megha,Singh,Indian Institute of Technology Hyderabad,Civil Engineering,8.4,2025,"Transportation Engineering, Traffic Analysis, AutoCAD",No,Submitted,Transportation Engineer
+490,Arun,Sharma,Indian Institute of Technology Bombay,Mechanical Engineering,8.9,2024,"Robotics, Mechatronics, Control Systems",Yes,In Review,Robotics Engineer
+491,Nikita,Jain,National Institute of Technology Warangal,Computer Science,9.2,2024,"Machine Learning, Deep Learning, Python, TensorFlow",Yes,Interview Scheduled,AI/ML Engineer
+492,Deepak,Kumar,Indian Institute of Technology Madras,Computer Science,8.5,2024,"Web Development, React, Redux, Node.js",Yes,Submitted,Full Stack Developer
+493,Ankita,Singh,National Institute of Technology Trichy,Mechanical Engineering,8.0,2025,"Thermodynamics, Fluid Mechanics, CAD",No,Submitted,Mechanical Engineer
+494,Saurabh,Patel,Indian Institute of Technology Hyderabad,Electrical Engineering,8.8,2024,"Power Systems, Renewable Energy, MATLAB",Yes,Interview Scheduled,Electrical Engineer
+495,Rohan,Gupta,Indian Institute of Technology Delhi,Civil Engineering,8.3,2024,"Structural Analysis, BIM, Project Management",Yes,In Review,Civil Engineer
+496,Divya,Joshi,Vellore Institute of Technology,Computer Science,8.7,2025,"Android Development, Java, Firebase",Yes,Submitted,Mobile App Developer
+497,Abhinav,Kumar,Indian Institute of Technology Kanpur,Aerospace Engineering,7.9,2024,"Aerodynamics, CFD, SolidWorks",No,Submitted,Aerospace Engineer
+498,Tanya,Singh,National Institute of Technology Surathkal,Electronics and Communication Engineering,9.0,2024,"VLSI Design, Digital Logic, Verilog",Yes,Interview Scheduled,VLSI Design Engineer
+499,Gaurav,Yadav,Indian Institute of Technology Kharagpur,Electrical Engineering,8.6,2024,"Control Systems, Power Electronics, Simulink",Yes,In Review,Control Systems Engineer
+500,Aisha,Khan,Indian Institute of Technology Guwahati,Computer Science,9.1,2024,"Machine Learning, Natural Language Processing, Python",Yes,Interview Scheduled,Data Scientist
