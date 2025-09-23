@@ -1,0 +1,501 @@
+StudentID,FirstName,LastName,Institute,Major,GPA,GraduationYear,Skills,InternshipExperience,ApplicationStatus,PreferredRole
+1,Priya,Sharma,IIT Bombay,Computer Science,9.2,2025,"Python, Java, SQL",Yes,Interviewing,Software Engineer
+2,Rohan,Gupta,NIT Warangal,Information Technology,8.8,2026,"JavaScript, React, Node.js",Yes,Applied,Frontend Developer
+3,Aarav,Singh,Stanford University,Data Science,,2025,"Python, R, Machine Learning, Tableau",Yes,Offered,Data Analyst
+4,Ananya,Patel,BITS Pilani,Electronics and Communication,8.5,2024,"C++, Verilog, VHDL",No,Rejected,Hardware Engineer
+5,Vivaan,Kumar,IIIT Hyderabad,Computer Science,9.7,2025,"Go, Docker, Kubernetes, AWS",Yes,Interviewing,DevOps Engineer
+6,Diya,Reddy,VIT Vellore,Mechanical Engineering,7.9,2026,"AutoCAD, SolidWorks, CATIA",Yes,Applied,Mechanical Engineer
+7,Aditya,Mehta,MIT,Computer Science,3.9,2025,"Python, PyTorch, TensorFlow",,Applied,Machine Learning Engineer
+8,Saanvi,Joshi,IIT Delhi,Electrical Engineering,9.3,2024,"MATLAB, Simulink",No,Withdrawn,QA Engineer
+9,Vihaan,Verma,Manipal Institute of Technology,Business Administration,8.1,2025,"Excel, PowerPoint, Project Management",Yes,Offered,Business Analyst
+10,Kiara,Shah,Carnegie Mellon University,Data Science,3.8,2026,"SQL, Python, PowerBI",Yes,Interviewing,Data Analyst
+11,Arjun,Chopra,IIT Bombay,Computer Science,9.4,2025,"Java, Spring Boot, Microservices",Yes,Interviewing,Backend Developer
+12,Zoya,Malhotra,NIT Warangal,Information Technology,,2026,"HTML, CSS, JavaScript, Vue.js",Yes,Applied,Frontend Developer
+13,Ishaan,Aggarwal,Stanford University,Computer Science,3.7,2024,"C++, Algorithms, Data Structures",Yes,Offered,Software Engineer
+14,Riya,Goyal,BITS Pilani,Electronics and Communication,8.2,2025,"Embedded C, RTOS",No,Rejected,Embedded Engineer
+15,Reyansh,Bansal,IIIT Hyderabad,Computer Science,9.8,2026,"Python, Django, Flask, PostgreSQL",,Applied,Backend Developer
+16,Priya,Mittal,VIT Vellore,Mechanical Engineering,7.6,2024,"CATIA, Ansys",Yes,Withdrawn,Mechanical Engineer
+17,Rohan,Kulkarni,MIT,Data Science,4.0,2025,"Python, Scikit-learn, Pandas",Yes,Interviewing,Data Scientist
+18,Aarav,Nair,IIT Delhi,Electrical Engineering,9.0,2026,"VHDL, FPGA",No,Applied,Hardware Engineer
+19,Ananya,Iyer,Manipal Institute of Technology,Business Administration,8.3,2024,"Market Research, Agile",Yes,Offered,Product Manager
+20,Vivaan,Menon,Carnegie Mellon University,Computer Science,,2025,"Swift, iOS Development",Yes,Interviewing,Mobile Developer
+21,Diya,Pillai,IIT Bombay,Computer Science,9.1,2026,"Kotlin, Android Development",,Applied,Mobile Developer
+22,Aditya,Sodhi,NIT Warangal,Information Technology,8.6,2024,"Selenium, Java, TestNG",Yes,Rejected,QA Engineer
+23,Saanvi,Dhawan,Stanford University,Data Science,3.6,2025,"SQL, Python, Looker",Yes,Withdrawn,Data Analyst
+24,Vihaan,Rastogi,BITS Pilani,Electronics and Communication,8.0,2026,"ARM, Assembly",No,Applied,Embedded Engineer
+25,Kiara,Saxena,IIIT Hyderabad,Computer Science,9.9,2024,"Rust, WebAssembly",Yes,Interviewing,Software Engineer
+26,Arjun,Khatri,VIT Vellore,Mechanical Engineering,7.2,2025,"FEA, CFD",No,Applied,Mechanical Engineer
+27,Zoya,Trivedi,MIT,Computer Science,4.0,2026,"Java, Kafka, Spark",Yes,Offered,Data Engineer
+28,Ishaan,Bhatia,IIT Delhi,Electrical Engineering,9.5,2024,"Power Electronics, Control Systems",Yes,Interviewing,Electrical Engineer
+29,Riya,Dalal,Manipal Institute of Technology,Business Administration,8.4,2025,"JIRA, Confluence",Yes,Applied,Product Manager
+30,Reyansh,Gandhi,Carnegie Mellon University,Data Science,3.7,2026,"Python, NLP, SpaCy",Yes,Interviewing,Data Scientist
+31,Priya,Vohra,IIT Bombay,Computer Science,8.7,2024,"C#, .NET, Azure",No,Rejected,Software Engineer
+32,Rohan,Kashyap,NIT Warangal,Information Technology,9.0,2025,"Cyber Security, Networking",,Applied,Security Analyst
+33,Aarav,Rathore,Stanford University,Computer Science,3.8,2026,"Python, Algorithms",Yes,Withdrawn,Software Engineer
+34,Ananya,Sethi,BITS Pilani,Electronics and Communication,8.3,2024,"Signal Processing, DSP",No,Applied,Hardware Engineer
+35,Vivaan,Ahluwalia,IIIT Hyderabad,Computer Science,9.4,2025,"React Native, Firebase",Yes,Interviewing,Mobile Developer
+36,Diya,Chatterjee,VIT Vellore,Mechanical Engineering,7.8,2026,"Thermodynamics",No,Offered,Mechanical Engineer
+37,Aditya,Mukherjee,MIT,Data Science,3.9,2024,"A/B Testing, Statistics",Yes,Interviewing,Data Analyst
+38,Saanvi,Deshpande,IIT Delhi,Electrical Engineering,9.2,2025,"VLSI Design",,Rejected,Hardware Engineer
+39,Vihaan,Thakur,Manipal Institute of Technology,Business Administration,,2026,"SQL, Tableau",Yes,Applied,Business Analyst
+40,Kiara,Bisht,Carnegie Mellon University,Computer Science,3.9,2024,"UI/UX, Figma, Sketch",Yes,Interviewing,UI/UX Designer
+41,Arjun,Negi,IIT Bombay,Computer Science,9.3,2025,"Python, Java",Yes,Applied,Software Engineer
+42,Zoya,Rawat,NIT Warangal,Information Technology,8.5,2026,"Angular, TypeScript",No,Withdrawn,Frontend Developer
+43,Ishaan,Rana,Stanford University,Data Science,3.8,2024,"Python, Machine Learning",Yes,Offered,Data Scientist
+44,Riya,Chauhan,BITS Pilani,Electronics and Communication,8.4,2025,"PCB Design",No,Applied,Hardware Engineer
+45,Reyansh,Tomar,IIIT Hyderabad,Computer Science,9.7,2026,"Node.js, Express, MongoDB",Yes,Interviewing,Backend Developer
+46,Priya,Khan,VIT Vellore,Mechanical Engineering,7.5,2024,"Robotics, ROS",,Rejected,Robotics Engineer
+47,Rohan,Malik,MIT,Computer Science,4.0,2025,"C++, Game Development, Unreal Engine",Yes,Applied,Game Developer
+48,Aarav,Jain,IIT Delhi,Electrical Engineering,9.6,2026,"Control Systems",No,Interviewing,Electrical Engineer
+49,Ananya,Garg,Manipal Institute of Technology,Business Administration,8.2,2024,"Financial Modeling, Excel",Yes,Offered,Business Analyst
+50,Vivaan,Bhandari,Carnegie Mellon University,Data Science,3.8,2025,"Python, SQL",No,Applied,Data Analyst
+51,Diya,Singhania,IIT Bombay,Computer Science,8.9,2026,"Python, Django",Yes,Interviewing,Backend Developer
+52,Aditya,Kapoor,NIT Warangal,Information Technology,9.1,2024,"Java, Selenium",,Rejected,QA Engineer
+53,Saanvi,Goel,Stanford University,Computer Science,3.7,2025,"Algorithms, Data Structures",Yes,Withdrawn,Software Engineer
+54,Vihaan,Tandon,BITS Pilani,Electronics and Communication,8.1,2026,"Verilog, SystemVerilog",No,Applied,Hardware Engineer
+55,Kiara,Mathur,IIIT Hyderabad,Computer Science,9.5,2024,"React, Redux, GraphQL",Yes,Interviewing,Frontend Developer
+56,Arjun,Das,VIT Vellore,Mechanical Engineering,7.7,2025,"CAD, CAM",No,Applied,Mechanical Engineer
+57,Zoya,Bose,MIT,Data Science,3.9,2026,"R, Shiny, ggplot2",Yes,Offered,Data Analyst
+58,Ishaan,Sinha,IIT Delhi,Electrical Engineering,9.3,2024,"MATLAB",Yes,Interviewing,Electrical Engineer
+59,Riya,Chaudhary,Manipal Institute of Technology,Business Administration,,2025,"Agile, Scrum",Yes,Applied,Product Manager
+60,Reyansh,Biswas,Carnegie Mellon University,Computer Science,3.8,2026,"Figma, Adobe XD",Yes,Interviewing,UI/UX Designer
+61,Priya,Dutta,IIT Bombay,Computer Science,9.0,2024,"Java, Spring",,Applied,Backend Developer
+62,Rohan,Ghosh,NIT Warangal,Information Technology,8.7,2025,"JavaScript, jQuery",Yes,Rejected,Frontend Developer
+63,Aarav,Majumdar,Stanford University,Data Science,3.6,2026,"Python, Pandas, NumPy",No,Withdrawn,Data Analyst
+64,Ananya,Sarkar,BITS Pilani,Electronics and Communication,8.2,2024,"Embedded Systems",No,Applied,Embedded Engineer
+65,Vivaan,Roy,IIIT Hyderabad,Computer Science,9.6,2025,"Python, FastAPI",Yes,Interviewing,Backend Developer
+66,Diya,Sen,VIT Vellore,Mechanical Engineering,7.9,2026,"3D Printing",Yes,Offered,Mechanical Engineer
+67,Aditya,Guha,MIT,Computer Science,4.0,2024,"C++, High Performance Computing",,Interviewing,Software Engineer
+68,Saanvi,Thakur,IIT Delhi,Electrical Engineering,9.4,2025,"Power Systems",No,Applied,Electrical Engineer
+69,Vihaan,Mishra,Manipal Institute of Technology,Business Administration,8.5,2026,"Salesforce",Yes,Rejected,Business Analyst
+70,Kiara,Pandey,Carnegie Mellon University,Data Science,3.7,2024,"SQL, dbt, Airflow",Yes,Interviewing,Data Engineer
+71,Arjun,Tiwari,IIT Bombay,Computer Science,,2025,"Go, Gin",Yes,Applied,Backend Developer
+72,Zoya,Dubey,NIT Warangal,Information Technology,8.8,2026,"Networking, CCNA",No,Withdrawn,Network Engineer
+73,Ishaan,Yadav,Stanford University,Computer Science,3.8,2024,"Python, Web Scraping",Yes,Offered,Software Engineer
+74,Riya,Prajapati,BITS Pilani,Electronics and Communication,8.0,2025,"IoT, Raspberry Pi",,Applied,IoT Developer
+75,Reyansh,Maurya,IIIT Hyderabad,Computer Science,9.3,2026,"Vue.js, Nuxt.js",Yes,Interviewing,Frontend Developer
+76,Priya,Chauhan,VIT Vellore,Mechanical Engineering,7.4,2024,"HVAC",No,Rejected,Mechanical Engineer
+77,Rohan,Rajput,MIT,Data Science,3.9,2025,"Python, Keras",Yes,Applied,Machine Learning Engineer
+78,Aarav,Rathod,IIT Delhi,Electrical Engineering,9.1,2026,"Digital Logic Design",No,Interviewing,Hardware Engineer
+79,Ananya,Solanki,Manipal Institute of Technology,Business Administration,8.1,2024,"SEO, SEM",Yes,Offered,Digital Marketing
+80,Vivaan,Parmar,Carnegie Mellon University,Computer Science,3.9,2025,"Objective-C, Cocoa",Yes,Interviewing,iOS Developer
+81,Diya,Jadeja,IIT Bombay,Computer Science,9.2,2026,"Android, Java, XML",,Applied,Android Developer
+82,Aditya,Thakor,NIT Warangal,Information Technology,8.5,2024,"Manual Testing, JIRA",Yes,Rejected,QA Engineer
+83,Saanvi,Vasavada,Stanford University,Data Science,,2025,"Tableau, SQL",Yes,Withdrawn,Data Analyst
+84,Vihaan,Vaghela,BITS Pilani,Electronics and Communication,8.3,2026,"Microcontrollers",No,Applied,Embedded Engineer
+85,Kiara,Desai,IIIT Hyderabad,Computer Science,9.8,2024,"Django, Celery, Redis",Yes,Interviewing,Backend Developer
+86,Arjun,Patel,VIT Vellore,Mechanical Engineering,7.8,2025,"Mechatronics",Yes,Applied,Mechatronics Engineer
+87,Zoya,Shah,MIT,Computer Science,3.8,2026,"Java, Spring, Hibernate",Yes,Offered,Java Developer
+88,Ishaan,Mehta,IIT Delhi,Electrical Engineering,9.5,2024,"Semiconductors",No,Interviewing,Hardware Engineer
+89,Riya,Joshi,Manipal Institute of Technology,Business Administration,8.6,2025,"Product Roadmapping",Yes,Applied,Product Manager
+90,Reyansh,Sharma,Carnegie Mellon University,Data Science,3.8,2026,"Python, Spark",,Interviewing,Data Engineer
+91,Priya,Verma,IIT Bombay,Computer Science,8.7,2024,"C++, Boost",Yes,Rejected,Software Engineer
+92,Rohan,Gupta,NIT Warangal,Information Technology,8.9,2025,"Penetration Testing",No,Applied,Security Analyst
+93,Aarav,Singh,Stanford University,Computer Science,3.6,2026,"Python, Flask",Yes,Withdrawn,Software Engineer
+94,Ananya,Kumar,BITS Pilani,Electronics and Communication,8.4,2024,"Analog Circuits",,Applied,Hardware Engineer
+95,Vivaan,Patel,IIIT Hyderabad,Computer Science,9.4,2025,"Flutter, Dart",Yes,Interviewing,Mobile Developer
+96,Diya,Reddy,VIT Vellore,Mechanical Engineering,7.9,2026,"Manufacturing Processes",Yes,Offered,Production Engineer
+97,Aditya,Shah,MIT,Data Science,3.9,2024,"Statistics, R",Yes,Interviewing,Data Scientist
+98,Saanvi,Mehta,IIT Delhi,Electrical Engineering,9.2,2025,"Circuit Design",No,Rejected,Hardware Engineer
+99,Vihaan,Joshi,Manipal Institute of Technology,Business Administration,8.2,2026,"Market Analysis",,Applied,Business Analyst
+100,Kiara,Sharma,Carnegie Mellon University,Computer Science,3.7,2024,"Human-Computer Interaction",Yes,Interviewing,UX Researcher
+101,Aarav,Verma,IIT Bombay,Computer Science,8.9,2026,"Python, Java, SQL",Yes,Interviewing,Software Engineer
+102,Saanvi,Gupta,NIT Warangal,Information Technology,9.1,2024,"JavaScript, React, Node.js",No,Applied,Frontend Developer
+103,Vivaan,Singh,Stanford University,Data Science,3.8,2025,"Python, R, Machine Learning, Tableau",,Offered,Data Analyst
+104,Diya,Kumar,BITS Pilani,Electronics and Communication,8.5,2026,"C++, Verilog",Yes,Rejected,Hardware Engineer
+105,Aditya,Patel,IIIT Hyderabad,Computer Science,9.5,2024,"Go, Docker, Kubernetes, AWS",Yes,Interviewing,DevOps Engineer
+106,Ananya,Reddy,VIT Vellore,Mechanical Engineering,7.8,2025,"AutoCAD, SolidWorks",No,Applied,Mechanical Engineer
+107,Reyansh,Shah,MIT,Computer Science,,2026,"Python, PyTorch, TensorFlow",Yes,Applied,Machine Learning Engineer
+108,Kiara,Mehta,IIT Delhi,Electrical Engineering,9.2,2024,"MATLAB, Simulink",No,Withdrawn,QA Engineer
+109,Arjun,Joshi,Manipal Institute of Technology,Business Administration,8.1,2025,"Excel, PowerPoint, Project Management",Yes,Offered,Business Analyst
+110,Zoya,Sharma,Carnegie Mellon University,Data Science,3.9,2026,"SQL, Python, PowerBI",,Interviewing,Data Analyst
+111,Ishaan,Verma,IIT Bombay,Computer Science,9.3,2024,"Java, Spring Boot, Microservices",Yes,Interviewing,Backend Developer
+112,Riya,Gupta,NIT Warangal,Information Technology,8.8,2025,"HTML, CSS, JavaScript, Vue.js",Yes,Applied,Frontend Developer
+113,Rohan,Singh,Stanford University,Computer Science,3.7,2026,"C++, Algorithms, Data Structures",No,Offered,Software Engineer
+114,Priya,Kumar,BITS Pilani,Electronics and Communication,8.2,2024,"Embedded C, RTOS",Yes,Rejected,Embedded Engineer
+115,Vihaan,Patel,IIIT Hyderabad,Computer Science,9.6,2025,"Python, Django, Flask, PostgreSQL",,Applied,Backend Developer
+116,Aadhya,Reddy,VIT Vellore,Mechanical Engineering,7.5,2026,"CATIA, Ansys",Yes,Withdrawn,Mechanical Engineer
+117,Sai,Shah,MIT,Data Science,3.9,2024,"Python, Scikit-learn, Pandas",Yes,Interviewing,Data Scientist
+118,Anika,Mehta,IIT Delhi,Electrical Engineering,9.0,2025,"VHDL, FPGA",No,Applied,Hardware Engineer
+119,Krishna,Joshi,Manipal Institute of Technology,Business Administration,,2026,"Market Research, Agile",Yes,Offered,Product Manager
+120,Tara,Sharma,Carnegie Mellon University,Computer Science,3.8,2024,"Swift, iOS Development",Yes,Interviewing,Mobile Developer
+121,Ayaan,Verma,IIT Bombay,Computer Science,9.1,2025,"Kotlin, Android Development",No,Applied,Mobile Developer
+122,Myra,Gupta,NIT Warangal,Information Technology,8.5,2026,"Selenium, Java, TestNG",Yes,Rejected,QA Engineer
+123,Kabir,Singh,Stanford University,Data Science,3.6,2024,"SQL, Python, Looker",Yes,Withdrawn,Data Analyst
+124,Sia,Kumar,BITS Pilani,Electronics and Communication,8.0,2025,"ARM, Assembly",,Applied,Embedded Engineer
+125,Dhruv,Patel,IIIT Hyderabad,Computer Science,9.8,2026,"Rust, WebAssembly",Yes,Interviewing,Software Engineer
+126,Inaaya,Reddy,VIT Vellore,Mechanical Engineering,7.2,2024,"FEA, CFD",No,Applied,Mechanical Engineer
+127,Advik,Shah,MIT,Computer Science,4.0,2025,"Java, Kafka, Spark",Yes,Offered,Data Engineer
+128,Navya,Mehta,IIT Delhi,Electrical Engineering,9.4,2026,"Power Electronics, Control Systems",Yes,Interviewing,Electrical Engineer
+129,Yash,Joshi,Manipal Institute of Technology,Business Administration,8.4,2024,"JIRA, Confluence",No,Applied,Product Manager
+130,Samaira,Sharma,Carnegie Mellon University,Data Science,3.7,2025,"Python, NLP, SpaCy",,Interviewing,Data Scientist
+131,Arnav,Verma,IIT Bombay,Computer Science,8.8,2026,"C#, .NET, Azure",Yes,Rejected,Software Engineer
+132,Anvi,Gupta,NIT Warangal,Information Technology,8.9,2024,"Cyber Security, Networking",Yes,Applied,Security Analyst
+133,Parth,Singh,Stanford University,Computer Science,3.8,2025,"Python, Algorithms",No,Withdrawn,Software Engineer
+134,Zara,Kumar,BITS Pilani,Electronics and Communication,8.3,2026,"Signal Processing, DSP",,Applied,Hardware Engineer
+135,Neel,Patel,IIIT Hyderabad,Computer Science,9.4,2024,"React Native, Firebase",Yes,Interviewing,Mobile Developer
+136,Amaira,Reddy,VIT Vellore,Mechanical Engineering,7.9,2025,"Thermodynamics",No,Offered,Mechanical Engineer
+137,Shaurya,Shah,MIT,Data Science,3.8,2026,"A/B Testing, Statistics",Yes,Interviewing,Data Analyst
+138,Ishani,Mehta,IIT Delhi,Electrical Engineering,9.1,2024,"VLSI Design",Yes,Rejected,Hardware Engineer
+139,Veer,Joshi,Manipal Institute of Technology,Business Administration,,2025,"SQL, Tableau",Yes,Applied,Business Analyst
+140,Khushi,Sharma,Carnegie Mellon University,Computer Science,3.9,2026,"UI/UX, Figma, Sketch",Yes,Interviewing,UI/UX Designer
+141,Aryan,Verma,IIT Bombay,Computer Science,9.2,2024,"Python, Java",No,Applied,Software Engineer
+142,Avani,Gupta,NIT Warangal,Information Technology,8.6,2025,"Angular, TypeScript",Yes,Withdrawn,Frontend Developer
+143,Ryan,Singh,Stanford University,Data Science,3.8,2026,"Python, Machine Learning",Yes,Offered,Data Scientist
+144,Eva,Kumar,BITS Pilani,Electronics and Communication,8.4,2024,"PCB Design",,Applied,Hardware Engineer
+145,Atharv,Patel,IIIT Hyderabad,Computer Science,9.7,2025,"Node.js, Express, MongoDB",Yes,Interviewing,Backend Developer
+146,Fatima,Reddy,VIT Vellore,Mechanical Engineering,7.6,2026,"Robotics, ROS",No,Rejected,Robotics Engineer
+147,Aarush,Shah,MIT,Computer Science,3.9,2024,"C++, Game Development, Unreal Engine",Yes,Applied,Game Developer
+148,Mahi,Mehta,IIT Delhi,Electrical Engineering,9.3,2025,"Control Systems",Yes,Interviewing,Electrical Engineer
+149,Ivaan,Joshi,Manipal Institute of Technology,Business Administration,8.2,2026,"Financial Modeling, Excel",No,Offered,Business Analyst
+150,Shanaya,Sharma,Carnegie Mellon University,Data Science,3.8,2024,"Python, SQL",Yes,Applied,Data Analyst
+151,John,Smith,University of California, Berkeley,Computer Science,3.9,2025,"Python, Java, AWS",,Interviewing,Software Engineer
+152,Emily,Jones,Georgia Institute of Technology,Data Science,3.8,2024,"R, SQL, Tableau",Yes,Offered,Data Analyst
+153,Michael,Williams,University of Texas at Austin,Electrical Engineering,3.7,2025,"VHDL, Verilog",No,Applied,Hardware Engineer
+154,Jessica,Brown,University of Illinois Urbana-Champaign,Computer Science,,2024,"JavaScript, React, Node.js",Yes,Interviewing,Frontend Developer
+155,David,Davis,Purdue University,Mechanical Engineering,3.6,2025,"SolidWorks, CATIA",Yes,Applied,Mechanical Engineer
+156,Sarah,Miller,University of Michigan,Business Administration,3.9,2024,"Excel, Project Management",Yes,Offered,Business Analyst
+157,Chris,Wilson,Cornell University,Information Technology,3.5,2025,"Cyber Security, Python",No,Rejected,Security Analyst
+158,Amanda,Moore,University of Washington,Computer Science,3.9,2024,"Go, Docker, Kubernetes",Yes,Interviewing,DevOps Engineer
+159,James,Taylor,Johns Hopkins University,Data Science,3.8,2025,"Machine Learning, PyTorch",,Withdrawn,Machine Learning Engineer
+160,Jennifer,Anderson,University of Southern California,Electrical Engineering,3.6,2024,"MATLAB, Simulink",No,Applied,Electrical Engineer
+161,Robert,Thomas,Northwestern University,Computer Science,3.7,2025,"Java, Spring Boot",Yes,Interviewing,Backend Developer
+162,Linda,Jackson,New York University,Business Administration,3.8,2024,"Agile, JIRA",Yes,Offered,Product Manager
+163,William,White,Duke University,Mechanical Engineering,3.5,2025,"FEA, Ansys",,Applied,Mechanical Engineer
+164,Patricia,Harris,University of Virginia,Data Science,3.9,2024,"SQL, PowerBI",Yes,Interviewing,Data Analyst
+165,Richard,Martin,University of North Carolina at Chapel Hill,Computer Science,3.7,2025,"C++, Algorithms",Yes,Rejected,Software Engineer
+166,Susan,Thompson,University of Florida,Information Technology,3.6,2024,"Networking, Cisco",No,Applied,Network Engineer
+167,Joseph,Garcia,Ohio State University,Electrical Engineering,3.5,2025,"Embedded C, RTOS",Yes,Withdrawn,Embedded Engineer
+168,Karen,Martinez,Pennsylvania State University,Computer Science,,2024,"Swift, iOS Development",Yes,Interviewing,Mobile Developer
+169,Charles,Robinson,Texas A&M University,Mechanical Engineering,3.7,2025,"AutoCAD",No,Applied,Mechanical Engineer
+170,Nancy,Clark,University of Wisconsin-Madison,Data Science,3.9,2024,"Python, Pandas",Yes,Offered,Data Analyst
+171,Thomas,Rodriguez,University of Minnesota,Computer Science,3.6,2025,"Kotlin, Android Development",,Interviewing,Android Developer
+172,Lisa,Lewis,Michigan State University,Business Administration,3.8,2024,"Market Research",Yes,Applied,Business Analyst
+173,Daniel,Lee,University of Maryland,College Park,Electrical Engineering,3.7,2025,"VLSI, Cadence",No,Rejected,Hardware Engineer
+174,Betty,Walker,University of Pittsburgh,Information Technology,3.5,2024,"HTML, CSS, JavaScript",Yes,Applied,Frontend Developer
+175,Paul,Hall,Rutgers University,Computer Science,3.8,2025,"Python, Django",Yes,Interviewing,Backend Developer
+176,Sandra,Allen,Indiana University Bloomington,Data Science,3.9,2024,"A/B Testing, SQL",,Withdrawn,Data Scientist
+177,Mark,Young,University of Colorado Boulder,Mechanical Engineering,3.6,2025,"Thermodynamics, CFD",Yes,Applied,Mechanical Engineer
+178,Ashley,Hernandez,Virginia Tech,Computer Science,3.7,2024,"C#, .NET",No,Offered,Software Engineer
+179,Donald,King,University of Arizona,Business Administration,3.8,2025,"Salesforce, CRM",Yes,Interviewing,Business Analyst
+180,Kimberly,Wright,University of Iowa,Data Science,3.9,2024,"R, Shiny",Yes,Applied,Data Analyst
+181,Steven,Lopez,University of Utah,Electrical Engineering,3.5,2025,"Power Systems",,Rejected,Electrical Engineer
+182,Donna,Hill,University of Connecticut,Computer Science,3.8,2024,"React Native, Firebase",Yes,Interviewing,Mobile Developer
+183,Andrew,Scott,Arizona State University,Information Technology,3.6,2025,"Selenium, Java",No,Applied,QA Engineer
+184,Michelle,Green,University of Kansas,Business Administration,3.9,2024,"UI/UX, Figma",Yes,Offered,UI/UX Designer
+185,Joshua,Adams,University of Oregon,Computer Science,3.7,2025,"Java, Kafka",Yes,Interviewing,Data Engineer
+186,Emily,Baker,Clemson University,Mechanical Engineering,3.5,2024,"Robotics, ROS",No,Withdrawn,Robotics Engineer
+187,Kevin,Gonzalez,University of Kentucky,Data Science,,2025,"Python, NLP",Yes,Applied,Data Scientist
+188,Brenda,Nelson,University of Alabama,Computer Science,3.6,2024,"Game Development, Unity",Yes,Interviewing,Game Developer
+189,Brian,Carter,Auburn University,Electrical Engineering,3.7,2025,"Signal Processing",,Rejected,Hardware Engineer
+190,Pamela,Mitchell,University of Oklahoma,Business Administration,3.9,2024,"Financial Modeling",Yes,Applied,Financial Analyst
+191,George,Perez,University of Tennessee, Knoxville,Computer Science,3.8,2025,"Python, FastAPI",Yes,Interviewing,Backend Developer
+192,Nicole,Roberts,University of South Carolina,Data Science,3.9,2024,"dbt, Airflow, SQL",No,Offered,Data Engineer
+193,Edward,Turner,Florida State University,Information Technology,3.5,2025,"Cyber Security",Yes,Applied,Security Analyst
+194,Cynthia,Phillips,University of Georgia,Computer Science,3.7,2024,"C++, Boost",Yes,Withdrawn,Software Engineer
+195,Ronald,Campbell,University of Nebraska-Lincoln,Mechanical Engineering,3.6,2025,"CAD, CAM",No,Interviewing,Mechanical Engineer
+196,Kathleen,Parker,Iowa State University,Business Administration,3.8,2024,"SEO, Google Analytics",,Applied,Marketing Analyst
+197,Timothy,Evans,University of Missouri,Data Science,3.9,2025,"Looker, Tableau",Yes,Interviewing,Data Analyst
+198,Amy,Edwards,University of Arkansas,Computer Science,3.7,2024,"Angular, TypeScript",No,Rejected,Frontend Developer
+199,Jason,Collins,Kansas State University,Electrical Engineering,3.5,2025,"Microcontrollers",Yes,Applied,Embedded Engineer
+200,Sharon,Stewart,Oklahoma State University,Information Technology,3.8,2024,"Manual Testing",Yes,Offered,QA Engineer
+201,Aarav,Sharma,IIT Bombay,Computer Science,9.2,2025,"Java, Spring Boot, AWS",No,Interviewing,Backend Developer
+202,Saanvi,Patel,NIT Warangal,Information Technology,8.7,2024,"React, JavaScript, CSS",Yes,Applied,Frontend Developer
+203,Vivaan,Singh,Stanford University,Data Science,3.9,2025,"Python, TensorFlow, Keras",Yes,Offered,Machine Learning Engineer
+204,Diya,Gupta,BITS Pilani,Electronics and Communication,8.6,2024,"VHDL, FPGA Design",,Rejected,Hardware Engineer
+205,Aditya,Kumar,IIIT Hyderabad,Computer Science,9.6,2025,"Docker, Kubernetes, Jenkins",Yes,Interviewing,DevOps Engineer
+206,Ananya,Reddy,VIT Vellore,Mechanical Engineering,8.0,2024,"SolidWorks, Ansys",No,Applied,Mechanical Engineer
+207,Reyansh,Mehta,MIT,Computer Science,,2025,"Python, Scikit-learn",Yes,Applied,Data Scientist
+208,Kiara,Joshi,IIT Delhi,Electrical Engineering,9.3,2024,"MATLAB, Power Electronics",No,Withdrawn,Electrical Engineer
+209,Arjun,Verma,Manipal Institute of Technology,Business Administration,8.3,2024,"SQL, Tableau, Excel",Yes,Offered,Business Analyst
+210,Zoya,Shah,Carnegie Mellon University,Data Science,3.9,2025,"Python, Spark, Hadoop",Yes,Interviewing,Data Engineer
+211,Ishaan,Chopra,IIT Bombay,Computer Science,9.4,2024,"Go, Microservices",,Interviewing,Software Engineer
+212,Riya,Malhotra,NIT Warangal,Information Technology,8.9,2025,"Vue.js, TypeScript",Yes,Applied,Frontend Developer
+213,Rohan,Aggarwal,Stanford University,Computer Science,3.7,2024,"C++, Algorithms",Yes,Offered,Software Engineer
+214,Priya,Goyal,BITS Pilani,Electronics and Communication,8.1,2024,"Embedded C",No,Rejected,Embedded Engineer
+215,Vihaan,Bansal,IIIT Hyderabad,Computer Science,9.8,2025,"Django, Python, PostgreSQL",Yes,Applied,Backend Developer
+216,Aadhya,Mittal,VIT Vellore,Mechanical Engineering,7.6,2024,"CATIA",,Withdrawn,Design Engineer
+217,Sai,Kulkarni,MIT,Data Science,3.9,2025,"R, Statistics",Yes,Interviewing,Data Scientist
+218,Anika,Nair,IIT Delhi,Electrical Engineering,9.1,2024,"VLSI",No,Applied,Hardware Engineer
+219,Krishna,Iyer,Manipal Institute of Technology,Business Administration,8.2,2024,"Agile, Product Management",Yes,Offered,Product Manager
+220,Tara,Menon,Carnegie Mellon University,Computer Science,3.8,2025,"iOS, Swift, UIKit",No,Interviewing,Mobile Developer
+221,Ayaan,Pillai,IIT Bombay,Computer Science,9.0,2024,"Android, Kotlin",Yes,Applied,Mobile Developer
+222,Myra,Sodhi,NIT Warangal,Information Technology,,2025,"Selenium, Test Automation",Yes,Rejected,QA Engineer
+223,Kabir,Dhawan,Stanford University,Data Science,3.6,2024,"SQL, Python",,Withdrawn,Data Analyst
+224,Sia,Rastogi,BITS Pilani,Electronics and Communication,8.0,2024,"ARM Architecture",No,Applied,Embedded Engineer
+225,Dhruv,Saxena,IIIT Hyderabad,Computer Science,9.9,2025,"Rust, WebAssembly",Yes,Interviewing,Software Engineer
+226,Inaaya,Khatri,VIT Vellore,Mechanical Engineering,7.3,2024,"CFD Analysis",Yes,Applied,Mechanical Engineer
+227,Advik,Trivedi,MIT,Computer Science,4.0,2025,"Java, Spark",No,Offered,Data Engineer
+228,Navya,Bhatia,IIT Delhi,Electrical Engineering,9.5,2024,"Control Systems",Yes,Interviewing,Electrical Engineer
+229,Yash,Dalal,Manipal Institute of Technology,Business Administration,8.5,2024,"JIRA",Yes,Applied,Product Manager
+230,Samaira,Gandhi,Carnegie Mellon University,Data Science,3.7,2025,"NLP, Python",Yes,Interviewing,Data Scientist
+231,Arnav,Vohra,IIT Bombay,Computer Science,8.7,2024,".NET, C#, Azure",,Rejected,Software Engineer
+232,Anvi,Kashyap,NIT Warangal,Information Technology,9.0,2025,"Cyber Security",Yes,Applied,Security Analyst
+233,Parth,Rathore,Stanford University,Computer Science,3.8,2024,"Algorithms",No,Withdrawn,Software Engineer
+234,Zara,Sethi,BITS Pilani,Electronics and Communication,8.3,2024,"Signal Processing",No,Applied,Hardware Engineer
+235,Neel,Ahluwalia,IIIT Hyderabad,Computer Science,9.5,2025,"React Native",Yes,Interviewing,Mobile Developer
+236,Amaira,Chatterjee,VIT Vellore,Mechanical Engineering,7.8,2024,"Thermodynamics",,Offered,Mechanical Engineer
+237,Shaurya,Mukherjee,MIT,Data Science,3.9,2025,"A/B Testing",Yes,Interviewing,Data Analyst
+238,Ishani,Deshpande,IIT Delhi,Electrical Engineering,9.2,2024,"VLSI Design",No,Rejected,Hardware Engineer
+239,Veer,Thakur,Manipal Institute of Technology,Business Administration,8.1,2024,"SQL",Yes,Applied,Business Analyst
+240,Khushi,Bisht,Carnegie Mellon University,Computer Science,,2025,"Figma, UI/UX",Yes,Interviewing,UI/UX Designer
+241,Aryan,Negi,IIT Bombay,Computer Science,9.3,2024,"Python",Yes,Applied,Software Engineer
+242,Avani,Rawat,NIT Warangal,Information Technology,8.6,2025,"Angular",No,Withdrawn,Frontend Developer
+243,Ryan,Rana,Stanford University,Data Science,3.8,2024,"Machine Learning",Yes,Offered,Data Scientist
+244,Eva,Chauhan,BITS Pilani,Electronics and Communication,8.4,2024,"PCB Design",,Applied,Hardware Engineer
+245,Atharv,Tomar,IIIT Hyderabad,Computer Science,9.7,2025,"Node.js, MongoDB",Yes,Interviewing,Backend Developer
+246,Fatima,Khan,VIT Vellore,Mechanical Engineering,7.5,2024,"Robotics",No,Rejected,Robotics Engineer
+247,Aarush,Malik,MIT,Computer Science,3.9,2025,"C++, Unreal Engine",Yes,Applied,Game Developer
+248,Mahi,Jain,IIT Delhi,Electrical Engineering,9.4,2024,"Control Systems",Yes,Interviewing,Electrical Engineer
+249,Ivaan,Garg,Manipal Institute of Technology,Business Administration,8.4,2024,"Financial Modeling",No,Offered,Business Analyst
+250,Shanaya,Bhandari,Carnegie Mellon University,Data Science,3.8,2025,"SQL",Yes,Applied,Data Analyst
+251,Jai,Singhania,IIT Bombay,Computer Science,8.9,2026,"Python, Django",Yes,Interviewing,Backend Developer
+252,Aisha,Kapoor,NIT Warangal,Information Technology,9.1,2025,"Java, Selenium",,Rejected,QA Engineer
+253,Laksh,Goel,Stanford University,Computer Science,3.7,2024,"Algorithms",Yes,Withdrawn,Software Engineer
+254,Aaradhya,Tandon,BITS Pilani,Electronics and Communication,8.2,2026,"SystemVerilog",No,Applied,Hardware Engineer
+255,Yuvraj,Mathur,IIIT Hyderabad,Computer Science,9.6,2025,"React, Redux",Yes,Interviewing,Frontend Developer
+256,Mirha,Das,VIT Vellore,Mechanical Engineering,7.7,2024,"CAD",No,Applied,Mechanical Engineer
+257,Advait,Bose,MIT,Data Science,3.9,2026,"R, Shiny",Yes,Offered,Data Analyst
+258,Ananya,Sinha,IIT Delhi,Electrical Engineering,9.3,2025,"MATLAB",,Interviewing,Electrical Engineer
+259,Abeer,Chaudhary,Manipal Institute of Technology,Business Administration,8.3,2024,"Scrum",Yes,Applied,Product Manager
+260,Kavya,Biswas,Carnegie Mellon University,Computer Science,,2026,"Figma",Yes,Interviewing,UI/UX Designer
+261,Rudra,Dutta,IIT Bombay,Computer Science,9.1,2025,"Java, Spring",Yes,Applied,Backend Developer
+262,Aahana,Ghosh,NIT Warangal,Information Technology,8.8,2024,"JavaScript",No,Rejected,Frontend Developer
+263,Arin,Majumdar,Stanford University,Data Science,3.6,2026,"Python, Pandas",Yes,Withdrawn,Data Analyst
+264,Pari,Sarkar,BITS Pilani,Electronics and Communication,8.1,2025,"Embedded Systems",,Applied,Embedded Engineer
+265,Yuvan,Roy,IIIT Hyderabad,Computer Science,9.7,2024,"Python, FastAPI",Yes,Interviewing,Backend Developer
+266,Navya,Sen,VIT Vellore,Mechanical Engineering,7.9,2026,"3D Printing",No,Offered,Mechanical Engineer
+267,Rehan,Guha,MIT,Computer Science,4.0,2025,"C++, HPC",Yes,Interviewing,Software Engineer
+268,Sara,Thakur,IIT Delhi,Electrical Engineering,9.5,2024,"Power Systems",Yes,Interviewing,Electrical Engineer
+269,Samarth,Mishra,Manipal Institute of Technology,Business Administration,8.5,2026,"Salesforce",No,Rejected,Business Analyst
+270,Anika,Pandey,Carnegie Mellon University,Data Science,3.7,2025,"SQL, dbt",Yes,Interviewing,Data Engineer
+271,Arjun,Tiwari,IIT Bombay,Computer Science,8.9,2024,"Go",,Applied,Backend Developer
+272,Zoya,Dubey,NIT Warangal,Information Technology,8.8,2026,"Networking",Yes,Withdrawn,Network Engineer
+273,Ishaan,Yadav,Stanford University,Computer Science,3.8,2025,"Python, Web Scraping",No,Offered,Software Engineer
+274,Riya,Prajapati,BITS Pilani,Electronics and Communication,8.0,2024,"IoT",Yes,Applied,IoT Developer
+275,Rohan,Maurya,IIIT Hyderabad,Computer Science,9.4,2026,"Vue.js",,Interviewing,Frontend Developer
+276,Priya,Chauhan,VIT Vellore,Mechanical Engineering,7.4,2025,"HVAC",No,Rejected,Mechanical Engineer
+277,Vihaan,Rajput,MIT,Data Science,3.9,2024,"Python, Keras",Yes,Applied,Machine Learning Engineer
+278,Aadhya,Rathod,IIT Delhi,Electrical Engineering,9.2,2026,"Digital Logic",No,Interviewing,Hardware Engineer
+279,Sai,Solanki,Manipal Institute of Technology,Business Administration,8.2,2025,"SEO",Yes,Offered,Digital Marketing
+280,Anika,Parmar,Carnegie Mellon University,Computer Science,3.9,2024,"Objective-C",Yes,Interviewing,iOS Developer
+281,Krishna,Jadeja,IIT Bombay,Computer Science,9.2,2026,"Android, Java",Yes,Applied,Android Developer
+282,Tara,Thakor,NIT Warangal,Information Technology,,2025,"Manual Testing",No,Rejected,QA Engineer
+283,Ayaan,Vasavada,Stanford University,Data Science,3.7,2024,"Tableau",Yes,Withdrawn,Data Analyst
+284,Myra,Vaghela,BITS Pilani,Electronics and Communication,8.3,2026,"Microcontrollers",,Applied,Embedded Engineer
+285,Kabir,Desai,IIIT Hyderabad,Computer Science,9.8,2025,"Django, Celery",Yes,Interviewing,Backend Developer
+286,Sia,Patel,VIT Vellore,Mechanical Engineering,7.8,2024,"Mechatronics",No,Applied,Mechatronics Engineer
+287,Dhruv,Shah,MIT,Computer Science,3.8,2026,"Java, Hibernate",Yes,Offered,Java Developer
+288,Inaaya,Mehta,IIT Delhi,Electrical Engineering,9.6,2025,"Semiconductors",Yes,Interviewing,Hardware Engineer
+289,Advik,Joshi,Manipal Institute of Technology,Business Administration,8.6,2024,"Product Roadmapping",No,Applied,Product Manager
+290,Navya,Sharma,Carnegie Mellon University,Data Science,3.8,2026,"Python, Spark",Yes,Interviewing,Data Engineer
+291,Yash,Verma,IIT Bombay,Computer Science,8.7,2025,"C++",,Rejected,Software Engineer
+292,Samaira,Gupta,NIT Warangal,Information Technology,8.9,2024,"Penetration Testing",Yes,Applied,Security Analyst
+293,Arnav,Singh,Stanford University,Computer Science,3.6,2026,"Python, Flask",No,Withdrawn,Software Engineer
+294,Anvi,Kumar,BITS Pilani,Electronics and Communication,8.4,2025,"Analog Circuits",Yes,Applied,Hardware Engineer
+295,Parth,Patel,IIIT Hyderabad,Computer Science,9.5,2024,"Flutter",Yes,Interviewing,Mobile Developer
+296,Zara,Reddy,VIT Vellore,Mechanical Engineering,7.9,2026,"Manufacturing",,Offered,Production Engineer
+297,Neel,Shah,MIT,Data Science,3.9,2025,"Statistics",Yes,Interviewing,Data Scientist
+298,Amaira,Mehta,IIT Delhi,Electrical Engineering,9.3,2024,"Circuit Design",No,Rejected,Hardware Engineer
+299,Shaurya,Joshi,Manipal Institute of Technology,Business Administration,8.2,2026,"Market Analysis",Yes,Applied,Business Analyst
+300,Ishani,Sharma,Carnegie Mellon University,Computer Science,3.7,2025,"HCI",Yes,Interviewing,UX Researcher
+301,John,Smith,University of California, Berkeley,Computer Science,3.8,2024,"Python, Java",,Interviewing,Software Engineer
+302,Emily,Jones,Georgia Institute of Technology,Data Science,3.9,2025,"R, SQL",Yes,Offered,Data Analyst
+303,Michael,Williams,University of Texas at Austin,Electrical Engineering,3.6,2024,"VHDL",No,Applied,Hardware Engineer
+304,Jessica,Brown,University of Illinois Urbana-Champaign,Computer Science,3.8,2025,"JavaScript, React",Yes,Interviewing,Frontend Developer
+305,David,Davis,Purdue University,Mechanical Engineering,3.7,2024,"SolidWorks",Yes,Applied,Mechanical Engineer
+306,Sarah,Miller,University of Michigan,Business Administration,3.8,2025,"Excel",Yes,Offered,Business Analyst
+307,Chris,Wilson,Cornell University,Information Technology,3.4,2024,"Cyber Security",No,Rejected,Security Analyst
+308,Amanda,Moore,University of Washington,Computer Science,3.9,2025,"Go, Docker",,Interviewing,DevOps Engineer
+309,James,Taylor,Johns Hopkins University,Data Science,3.7,2024,"Machine Learning",Yes,Withdrawn,Machine Learning Engineer
+310,Jennifer,Anderson,University of Southern California,Electrical Engineering,3.5,2025,"MATLAB",No,Applied,Electrical Engineer
+311,Robert,Thomas,Northwestern University,Computer Science,,2024,"Java, Spring",Yes,Interviewing,Backend Developer
+312,Linda,Jackson,New York University,Business Administration,3.8,2025,"Agile",Yes,Offered,Product Manager
+313,William,White,Duke University,Mechanical Engineering,3.4,2024,"Ansys",No,Applied,Mechanical Engineer
+314,Patricia,Harris,University of Virginia,Data Science,3.9,2025,"SQL, PowerBI",Yes,Interviewing,Data Analyst
+315,Richard,Martin,University of North Carolina at Chapel Hill,Computer Science,3.7,2024,"C++, Algorithms",Yes,Rejected,Software Engineer
+316,Susan,Thompson,University of Florida,Information Technology,3.6,2025,"Networking",,Applied,Network Engineer
+317,Joseph,Garcia,Ohio State University,Electrical Engineering,3.5,2024,"Embedded C",Yes,Withdrawn,Embedded Engineer
+318,Karen,Martinez,Pennsylvania State University,Computer Science,3.8,2025,"Swift, iOS",Yes,Interviewing,Mobile Developer
+319,Charles,Robinson,Texas A&M University,Mechanical Engineering,3.7,2024,"AutoCAD",No,Applied,Mechanical Engineer
+320,Nancy,Clark,University of Wisconsin-Madison,Data Science,3.9,2025,"Python, Pandas",Yes,Offered,Data Analyst
+321,Thomas,Rodriguez,University of Minnesota,Computer Science,3.6,2024,"Kotlin, Android",Yes,Interviewing,Android Developer
+322,Lisa,Lewis,Michigan State University,Business Administration,3.8,2025,"Market Research",No,Applied,Business Analyst
+323,Daniel,Lee,University of Maryland,College Park,Electrical Engineering,3.7,2024,"VLSI",,Rejected,Hardware Engineer
+324,Betty,Walker,University of Pittsburgh,Information Technology,3.5,2025,"HTML, CSS",Yes,Applied,Frontend Developer
+325,Paul,Hall,Rutgers University,Computer Science,3.8,2024,"Python, Django",Yes,Interviewing,Backend Developer
+326,Sandra,Allen,Indiana University Bloomington,Data Science,3.9,2025,"A/B Testing",No,Withdrawn,Data Scientist
+327,Mark,Young,University of Colorado Boulder,Mechanical Engineering,,2024,"Thermodynamics",Yes,Applied,Mechanical Engineer
+328,Ashley,Hernandez,Virginia Tech,Computer Science,3.7,2025,"C#, .NET",Yes,Offered,Software Engineer
+329,Donald,King,University of Arizona,Business Administration,3.8,2024,"Salesforce",Yes,Interviewing,Business Analyst
+330,Kimberly,Wright,University of Iowa,Data Science,3.9,2025,"R, Shiny",No,Applied,Data Analyst
+331,Steven,Lopez,University of Utah,Electrical Engineering,3.5,2024,"Power Systems",Yes,Rejected,Electrical Engineer
+332,Donna,Hill,University of Connecticut,Computer Science,3.8,2025,"React Native",,Interviewing,Mobile Developer
+333,Andrew,Scott,Arizona State University,Information Technology,3.6,2024,"Selenium",No,Applied,QA Engineer
+334,Michelle,Green,University of Kansas,Business Administration,3.9,2025,"UI/UX, Figma",Yes,Offered,UI/UX Designer
+335,Joshua,Adams,University of Oregon,Computer Science,3.7,2024,"Java, Kafka",Yes,Interviewing,Data Engineer
+336,Emily,Baker,Clemson University,Mechanical Engineering,3.5,2025,"Robotics, ROS",No,Withdrawn,Robotics Engineer
+337,Kevin,Gonzalez,University of Kentucky,Data Science,3.8,2024,"Python, NLP",,Applied,Data Scientist
+338,Brenda,Nelson,University of Alabama,Computer Science,3.6,2025,"Game Development",Yes,Interviewing,Game Developer
+339,Brian,Carter,Auburn University,Electrical Engineering,3.7,2024,"Signal Processing",No,Rejected,Hardware Engineer
+340,Pamela,Mitchell,University of Oklahoma,Business Administration,3.9,2025,"Financial Modeling",Yes,Applied,Financial Analyst
+341,George,Perez,University of Tennessee, Knoxville,Computer Science,3.8,2024,"Python, FastAPI",Yes,Interviewing,Backend Developer
+342,Nicole,Roberts,University of South Carolina,Data Science,3.9,2025,"dbt, Airflow",,Offered,Data Engineer
+343,Edward,Turner,Florida State University,Information Technology,3.5,2024,"Cyber Security",Yes,Applied,Security Analyst
+344,Cynthia,Phillips,University of Georgia,Computer Science,3.7,2025,"C++, Boost",No,Withdrawn,Software Engineer
+345,Ronald,Campbell,University of Nebraska-Lincoln,Mechanical Engineering,3.6,2024,"CAD",Yes,Interviewing,Mechanical Engineer
+346,Kathleen,Parker,Iowa State University,Business Administration,3.8,2025,"SEO",,Applied,Marketing Analyst
+347,Timothy,Evans,University of Missouri,Data Science,3.9,2024,"Looker, Tableau",Yes,Interviewing,Data Analyst
+348,Amy,Edwards,University of Arkansas,Computer Science,3.7,2025,"Angular",No,Rejected,Frontend Developer
+349,Jason,Collins,Kansas State University,Electrical Engineering,3.5,2024,"Microcontrollers",Yes,Applied,Embedded Engineer
+350,Sharon,Stewart,Oklahoma State University,Information Technology,3.8,2025,"Manual Testing",Yes,Offered,QA Engineer
+351,Aarav,Patel,IIT Bombay,Computer Science,9.1,2026,"Python, Java",,Interviewing,Software Engineer
+352,Saanvi,Sharma,NIT Warangal,Information Technology,9.0,2024,"JavaScript, React",Yes,Applied,Frontend Developer
+353,Vivaan,Gupta,Stanford University,Data Science,3.8,2025,"Python, Machine Learning",No,Offered,Data Analyst
+354,Diya,Singh,BITS Pilani,Electronics and Communication,8.7,2026,"C++, Verilog",Yes,Rejected,Hardware Engineer
+355,Aditya,Kumar,IIIT Hyderabad,Computer Science,9.7,2024,"Go, Docker",Yes,Interviewing,DevOps Engineer
+356,Ananya,Reddy,VIT Vellore,Mechanical Engineering,7.9,2025,"AutoCAD",No,Applied,Mechanical Engineer
+357,Reyansh,Patel,MIT,Computer Science,3.9,2026,"Python, PyTorch",,Applied,Machine Learning Engineer
+358,Kiara,Shah,IIT Delhi,Electrical Engineering,9.4,2024,"MATLAB",Yes,Withdrawn,QA Engineer
+359,Arjun,Mehta,Manipal Institute of Technology,Business Administration,8.2,2025,"Excel, Project Management",No,Offered,Business Analyst
+360,Zoya,Joshi,Carnegie Mellon University,Data Science,3.9,2026,"SQL, Python",Yes,Interviewing,Data Analyst
+361,Ishaan,Sharma,IIT Bombay,Computer Science,9.5,2024,"Java, Spring Boot",Yes,Interviewing,Backend Developer
+362,Riya,Verma,NIT Warangal,Information Technology,,2025,"HTML, CSS, Vue.js",Yes,Applied,Frontend Developer
+363,Rohan,Gupta,Stanford University,Computer Science,3.7,2026,"C++, Algorithms",No,Offered,Software Engineer
+364,Priya,Singh,BITS Pilani,Electronics and Communication,8.3,2024,"Embedded C",Yes,Rejected,Embedded Engineer
+365,Vihaan,Kumar,IIIT Hyderabad,Computer Science,9.8,2025,"Python, Django",,Applied,Backend Developer
+366,Aadhya,Patel,VIT Vellore,Mechanical Engineering,7.6,2026,"CATIA",Yes,Withdrawn,Mechanical Engineer
+367,Sai,Reddy,MIT,Data Science,3.9,2024,"Python, Scikit-learn",No,Interviewing,Data Scientist
+368,Anika,Shah,IIT Delhi,Electrical Engineering,9.1,2025,"VHDL",Yes,Applied,Hardware Engineer
+369,Krishna,Mehta,Manipal Institute of Technology,Business Administration,8.3,2026,"Market Research, Agile",Yes,Offered,Product Manager
+370,Tara,Joshi,Carnegie Mellon University,Computer Science,3.8,2024,"Swift, iOS",,Interviewing,Mobile Developer
+371,Ayaan,Sharma,IIT Bombay,Computer Science,9.2,2025,"Kotlin, Android",Yes,Applied,Mobile Developer
+372,Myra,Verma,NIT Warangal,Information Technology,8.6,2026,"Selenium, Java",No,Rejected,QA Engineer
+373,Kabir,Gupta,Stanford University,Data Science,3.6,2024,"SQL, Python",Yes,Withdrawn,Data Analyst
+374,Sia,Singh,BITS Pilani,Electronics and Communication,8.1,2025,"ARM",Yes,Applied,Embedded Engineer
+375,Dhruv,Kumar,IIIT Hyderabad,Computer Science,9.9,2026,"Rust",,Interviewing,Software Engineer
+376,Inaaya,Patel,VIT Vellore,Mechanical Engineering,7.4,2024,"FEA",No,Applied,Mechanical Engineer
+377,Advik,Reddy,MIT,Computer Science,4.0,2025,"Java, Kafka, Spark",Yes,Offered,Data Engineer
+378,Navya,Shah,IIT Delhi,Electrical Engineering,9.5,2026,"Power Electronics",Yes,Interviewing,Electrical Engineer
+379,Yash,Mehta,Manipal Institute of Technology,Business Administration,,2024,"JIRA",No,Applied,Product Manager
+380,Samaira,Joshi,Carnegie Mellon University,Data Science,3.7,2025,"Python, NLP",Yes,Interviewing,Data Scientist
+381,Arnav,Sharma,IIT Bombay,Computer Science,8.8,2026,"C#, .NET",,Rejected,Software Engineer
+382,Anvi,Verma,NIT Warangal,Information Technology,8.9,2024,"Cyber Security",Yes,Applied,Security Analyst
+383,Parth,Gupta,Stanford University,Computer Science,3.8,2025,"Python, Algorithms",No,Withdrawn,Software Engineer
+384,Zara,Singh,BITS Pilani,Electronics and Communication,8.4,2026,"Signal Processing",Yes,Applied,Hardware Engineer
+385,Neel,Kumar,IIIT Hyderabad,Computer Science,9.6,2024,"React Native, Firebase",Yes,Interviewing,Mobile Developer
+386,Amaira,Patel,VIT Vellore,Mechanical Engineering,7.9,2025,"Thermodynamics",No,Offered,Mechanical Engineer
+387,Shaurya,Reddy,MIT,Data Science,3.8,2026,"A/B Testing",,Interviewing,Data Analyst
+388,Ishani,Shah,IIT Delhi,Electrical Engineering,9.2,2024,"VLSI",Yes,Rejected,Hardware Engineer
+389,Veer,Mehta,Manipal Institute of Technology,Business Administration,8.1,2025,"SQL, Tableau",No,Applied,Business Analyst
+390,Khushi,Joshi,Carnegie Mellon University,Computer Science,3.9,2026,"UI/UX, Figma",Yes,Interviewing,UI/UX Designer
+391,Aryan,Sharma,IIT Bombay,Computer Science,9.3,2024,"Python",Yes,Applied,Software Engineer
+392,Avani,Verma,NIT Warangal,Information Technology,8.7,2025,"Angular, TypeScript",No,Withdrawn,Frontend Developer
+393,Ryan,Gupta,Stanford University,Data Science,3.8,2026,"Machine Learning",,Offered,Data Scientist
+394,Eva,Singh,BITS Pilani,Electronics and Communication,8.5,2024,"PCB Design",Yes,Applied,Hardware Engineer
+395,Atharv,Kumar,IIIT Hyderabad,Computer Science,9.8,2025,"Node.js, Express",Yes,Interviewing,Backend Developer
+396,Fatima,Patel,VIT Vellore,Mechanical Engineering,7.7,2026,"Robotics, ROS",No,Rejected,Robotics Engineer
+397,Aarush,Reddy,MIT,Computer Science,3.9,2024,"C++, Game Development",Yes,Applied,Game Developer
+398,Mahi,Shah,IIT Delhi,Electrical Engineering,9.4,2025,"Control Systems",,Interviewing,Electrical Engineer
+399,Ivaan,Mehta,Manipal Institute of Technology,Business Administration,8.3,2026,"Financial Modeling",Yes,Offered,Business Analyst
+400,Shanaya,Joshi,Carnegie Mellon University,Data Science,,2024,"Python, SQL",No,Applied,Data Analyst
+401,Aarav,Chopra,IIT Bombay,Computer Science,9.2,2024,"Python, Django",Yes,Interviewing,Backend Developer
+402,Saanvi,Malhotra,NIT Warangal,Information Technology,8.9,2025,"Selenium, Java",Yes,Rejected,QA Engineer
+403,Vivaan,Aggarwal,Stanford University,Computer Science,3.7,2024,"Algorithms, Data Structures",No,Withdrawn,Software Engineer
+404,Diya,Goyal,BITS Pilani,Electronics and Communication,8.2,2025,"Verilog",Yes,Applied,Hardware Engineer
+405,Aditya,Bansal,IIIT Hyderabad,Computer Science,9.6,2024,"React, Redux, GraphQL",,Interviewing,Frontend Developer
+406,Ananya,Mittal,VIT Vellore,Mechanical Engineering,7.5,2025,"CAD, CAM",No,Applied,Mechanical Engineer
+407,Reyansh,Kulkarni,MIT,Data Science,3.9,2024,"R, Shiny, ggplot2",Yes,Offered,Data Analyst
+408,Kiara,Nair,IIT Delhi,Electrical Engineering,9.1,2025,"MATLAB",Yes,Interviewing,Electrical Engineer
+409,Arjun,Iyer,Manipal Institute of Technology,Business Administration,8.3,2024,"Agile, Scrum",,Applied,Product Manager
+410,Zoya,Menon,Carnegie Mellon University,Computer Science,3.8,2025,"Figma, Adobe XD",Yes,Interviewing,UI/UX Designer
+411,Ishaan,Pillai,IIT Bombay,Computer Science,9.3,2024,"Java, Spring",No,Applied,Backend Developer
+412,Riya,Sodhi,NIT Warangal,Information Technology,8.7,2025,"JavaScript, jQuery",Yes,Rejected,Frontend Developer
+413,Rohan,Dhawan,Stanford University,Data Science,3.6,2024,"Python, Pandas, NumPy",,Withdrawn,Data Analyst
+414,Priya,Rastogi,BITS Pilani,Electronics and Communication,8.1,2025,"Embedded Systems",No,Applied,Embedded Engineer
+415,Vihaan,Saxena,IIIT Hyderabad,Computer Science,9.7,2024,"Python, FastAPI",Yes,Interviewing,Backend Developer
+416,Aadhya,Khatri,VIT Vellore,Mechanical Engineering,7.7,2025,"3D Printing",Yes,Offered,Mechanical Engineer
+417,Sai,Trivedi,MIT,Computer Science,4.0,2024,"C++, High Performance Computing",No,Interviewing,Software Engineer
+418,Anika,Bhatia,IIT Delhi,Electrical Engineering,9.5,2025,"Power Systems",Yes,Interviewing,Electrical Engineer
+419,Krishna,Dalal,Manipal Institute of Technology,Business Administration,,2024,"Salesforce",Yes,Rejected,Business Analyst
+420,Tara,Gandhi,Carnegie Mellon University,Data Science,3.7,2025,"SQL, dbt, Airflow",,Interviewing,Data Engineer
+421,Ayaan,Vohra,IIT Bombay,Computer Science,8.9,2024,"Go, Gin",Yes,Applied,Backend Developer
+422,Myra,Kashyap,NIT Warangal,Information Technology,8.8,2025,"Networking, CCNA",No,Withdrawn,Network Engineer
+423,Kabir,Rathore,Stanford University,Computer Science,3.8,2024,"Python, Web Scraping",Yes,Offered,Software Engineer
+424,Sia,Sethi,BITS Pilani,Electronics and Communication,8.3,2025,"IoT, Raspberry Pi",Yes,Applied,IoT Developer
+425,Dhruv,Ahluwalia,IIIT Hyderabad,Computer Science,9.4,2024,"Vue.js, Nuxt.js",No,Interviewing,Frontend Developer
+426,Inaaya,Chatterjee,VIT Vellore,Mechanical Engineering,7.4,2025,"HVAC",,Rejected,Mechanical Engineer
+427,Advik,Mukherjee,MIT,Data Science,3.9,2024,"Python, Keras",Yes,Applied,Machine Learning Engineer
+428,Navya,Deshpande,IIT Delhi,Electrical Engineering,9.2,2025,"Digital Logic Design",No,Interviewing,Hardware Engineer
+429,Yash,Thakur,Manipal Institute of Technology,Business Administration,8.2,2024,"SEO, SEM",Yes,Offered,Digital Marketing
+430,Samaira,Bisht,Carnegie Mellon University,Computer Science,3.9,2025,"Objective-C, Cocoa",Yes,Interviewing,iOS Developer
+431,Arnav,Negi,IIT Bombay,Computer Science,9.1,2024,"Android, Java, XML",,Applied,Android Developer
+432,Anvi,Rawat,NIT Warangal,Information Technology,8.6,2025,"Manual Testing, JIRA",No,Rejected,QA Engineer
+433,Parth,Rana,Stanford University,Data Science,3.7,2024,"Tableau, SQL",Yes,Withdrawn,Data Analyst
+434,Zara,Chauhan,BITS Pilani,Electronics and Communication,8.4,2025,"Microcontrollers",Yes,Applied,Embedded Engineer
+435,Neel,Tomar,IIIT Hyderabad,Computer Science,9.8,2024,"Django, Celery, Redis",No,Interviewing,Backend Developer
+436,Amaira,Khan,VIT Vellore,Mechanical Engineering,7.8,2025,"Mechatronics",Yes,Applied,Mechatronics Engineer
+437,Shaurya,Malik,MIT,Computer Science,3.8,2024,"Java, Spring, Hibernate",Yes,Offered,Java Developer
+438,Ishani,Jain,IIT Delhi,Electrical Engineering,9.6,2025,"Semiconductors",,Interviewing,Hardware Engineer
+439,Veer,Garg,Manipal Institute of Technology,Business Administration,8.6,2024,"Product Roadmapping",No,Applied,Product Manager
+440,Khushi,Bhandari,Carnegie Mellon University,Data Science,3.8,2025,"Python, Spark",Yes,Interviewing,Data Engineer
+441,Aryan,Singhania,IIT Bombay,Computer Science,,2024,"C++, Boost",Yes,Rejected,Software Engineer
+442,Avani,Kapoor,NIT Warangal,Information Technology,8.9,2025,"Penetration Testing",No,Applied,Security Analyst
+443,Ryan,Goel,Stanford University,Computer Science,3.6,2024,"Python, Flask",Yes,Withdrawn,Software Engineer
+444,Eva,Tandon,BITS Pilani,Electronics and Communication,8.5,2025,"Analog Circuits",Yes,Applied,Hardware Engineer
+445,Atharv,Mathur,IIIT Hyderabad,Computer Science,9.5,2024,"Flutter, Dart",,Interviewing,Mobile Developer
+446,Fatima,Das,VIT Vellore,Mechanical Engineering,7.9,2025,"Manufacturing Processes",No,Offered,Production Engineer
+447,Aarush,Bose,MIT,Data Science,3.9,2024,"Statistics, R",Yes,Interviewing,Data Scientist
+448,Mahi,Sinha,IIT Delhi,Electrical Engineering,9.3,2025,"Circuit Design",No,Rejected,Hardware Engineer
+449,Ivaan,Chaudhary,Manipal Institute of Technology,Business Administration,8.4,2024,"Market Analysis",Yes,Applied,Business Analyst
+450,Shanaya,Biswas,Carnegie Mellon University,Computer Science,3.7,2025,"Human-Computer Interaction",Yes,Interviewing,UX Researcher
+451,Jai,Dutta,IIT Bombay,Computer Science,9.0,2026,"Python, Java, SQL",,Interviewing,Software Engineer
+452,Aisha,Ghosh,NIT Warangal,Information Technology,9.1,2024,"JavaScript, React, Node.js",Yes,Applied,Frontend Developer
+453,Laksh,Majumdar,Stanford University,Data Science,3.8,2025,"Python, R, Machine Learning, Tableau",No,Offered,Data Analyst
+454,Aaradhya,Sarkar,BITS Pilani,Electronics and Communication,8.6,2026,"C++, Verilog",Yes,Rejected,Hardware Engineer
+455,Yuvraj,Roy,IIIT Hyderabad,Computer Science,9.7,2024,"Go, Docker, Kubernetes, AWS",Yes,Interviewing,DevOps Engineer
+456,Mirha,Sen,VIT Vellore,Mechanical Engineering,7.8,2025,"AutoCAD, SolidWorks",No,Applied,Mechanical Engineer
+457,Advait,Guha,MIT,Computer Science,3.9,2026,"Python, PyTorch, TensorFlow",Yes,Applied,Machine Learning Engineer
+458,Ananya,Thakur,IIT Delhi,Electrical Engineering,9.4,2024,"MATLAB, Simulink",,Withdrawn,QA Engineer
+459,Abeer,Mishra,Manipal Institute of Technology,Business Administration,8.2,2025,"Excel, PowerPoint, Project Management",Yes,Offered,Business Analyst
+460,Kavya,Pandey,Carnegie Mellon University,Data Science,3.9,2026,"SQL, Python, PowerBI",No,Interviewing,Data Analyst
+461,Rudra,Tiwari,IIT Bombay,Computer Science,9.5,2024,"Java, Spring Boot, Microservices",Yes,Interviewing,Backend Developer
+462,Aahana,Dubey,NIT Warangal,Information Technology,8.8,2025,"HTML, CSS, JavaScript, Vue.js",Yes,Applied,Frontend Developer
+463,Arin,Yadav,Stanford University,Computer Science,3.7,2026,"C++, Algorithms, Data Structures",No,Offered,Software Engineer
+464,Pari,Prajapati,BITS Pilani,Electronics and Communication,8.3,2024,"Embedded C, RTOS",Yes,Rejected,Embedded Engineer
+465,Yuvan,Maurya,IIIT Hyderabad,Computer Science,9.8,2025,"Python, Django, Flask, PostgreSQL",,Applied,Backend Developer
+466,Navya,Chauhan,VIT Vellore,Mechanical Engineering,7.6,2026,"CATIA, Ansys",Yes,Withdrawn,Mechanical Engineer
+467,Rehan,Rajput,MIT,Data Science,3.9,2024,"Python, Scikit-learn, Pandas",No,Interviewing,Data Scientist
+468,Sara,Rathod,IIT Delhi,Electrical Engineering,9.2,2025,"VHDL, FPGA",Yes,Applied,Hardware Engineer
+469,Samarth,Solanki,Manipal Institute of Technology,Business Administration,8.4,2026,"Market Research, Agile",Yes,Offered,Product Manager
+470,Anika,Parmar,Carnegie Mellon University,Computer Science,3.8,2024,"Swift, iOS Development",,Interviewing,Mobile Developer
+471,Arjun,Jadeja,IIT Bombay,Computer Science,9.2,2025,"Kotlin, Android Development",Yes,Applied,Mobile Developer
+472,Zoya,Thakor,NIT Warangal,Information Technology,,2026,"Selenium, Java, TestNG",No,Rejected,QA Engineer
+473,Ishaan,Vasavada,Stanford University,Data Science,3.6,2024,"SQL, Python, Looker",Yes,Withdrawn,Data Analyst
+474,Riya,Vaghela,BITS Pilani,Electronics and Communication,8.1,2025,"ARM, Assembly",Yes,Applied,Embedded Engineer
+475,Rohan,Desai,IIIT Hyderabad,Computer Science,9.9,2024,"Rust, WebAssembly",,Interviewing,Software Engineer
+476,Priya,Patel,VIT Vellore,Mechanical Engineering,7.5,2026,"FEA, CFD",No,Applied,Mechanical Engineer
+477,Vihaan,Shah,MIT,Computer Science,4.0,2025,"Java, Kafka, Spark",Yes,Offered,Data Engineer
+478,Aadhya,Mehta,IIT Delhi,Electrical Engineering,9.6,2024,"Power Electronics, Control Systems",Yes,Interviewing,Electrical Engineer
+479,Sai,Joshi,Manipal Institute of Technology,Business Administration,8.5,2026,"JIRA, Confluence",No,Applied,Product Manager
+480,Anika,Sharma,Carnegie Mellon University,Data Science,3.7,2025,"Python, NLP, SpaCy",Yes,Interviewing,Data Scientist
+481,Krishna,Verma,IIT Bombay,Computer Science,8.9,2024,"C#, .NET, Azure",,Rejected,Software Engineer
+482,Tara,Gupta,NIT Warangal,Information Technology,8.9,2026,"Cyber Security, Networking",Yes,Applied,Security Analyst
+483,Ayaan,Singh,Stanford University,Computer Science,3.8,2025,"Python, Algorithms",No,Withdrawn,Software Engineer
+484,Myra,Kumar,BITS Pilani,Electronics and Communication,8.4,2024,"Signal Processing, DSP",Yes,Applied,Hardware Engineer
+485,Kabir,Patel,IIIT Hyderabad,Computer Science,9.5,2026,"React Native, Firebase",Yes,Interviewing,Mobile Developer
+486,Sia,Reddy,VIT Vellore,Mechanical Engineering,7.9,2025,"Thermodynamics",No,Offered,Mechanical Engineer
+487,Dhruv,Shah,MIT,Data Science,3.9,2024,"A/B Testing, Statistics",,Interviewing,Data Analyst
+488,Inaaya,Mehta,IIT Delhi,Electrical Engineering,9.3,2026,"VLSI Design",Yes,Rejected,Hardware Engineer
+489,Advik,Joshi,Manipal Institute of Technology,Business Administration,8.2,2025,"SQL, Tableau",No,Applied,Business Analyst
+490,Navya,Sharma,Carnegie Mellon University,Computer Science,3.9,2024,"UI/UX, Figma, Sketch",Yes,Interviewing,UI/UX Designer
+491,Yash,Verma,IIT Bombay,Computer Science,9.3,2026,"Python, Java",Yes,Applied,Software Engineer
+492,Samaira,Gupta,NIT Warangal,Information Technology,8.7,2025,"Angular, TypeScript",No,Withdrawn,Frontend Developer
+493,Arnav,Singh,Stanford University,Data Science,3.8,2024,"Python, Machine Learning",Yes,Offered,Data Scientist
+494,Anvi,Kumar,BITS Pilani,Electronics and Communication,8.5,2026,"PCB Design",,Applied,Hardware Engineer
+495,Parth,Patel,IIIT Hyderabad,Computer Science,9.8,2025,"Node.js, Express, MongoDB",Yes,Interviewing,Backend Developer
+496,Zara,Reddy,VIT Vellore,Mechanical Engineering,7.7,2024,"Robotics, ROS",No,Rejected,Robotics Engineer
+497,Neel,Shah,MIT,Computer Science,3.9,2026,"C++, Game Development, Unreal Engine",Yes,Applied,Game Developer
+498,Amaira,Mehta,IIT Delhi,Electrical Engineering,9.4,2025,"Control Systems",,Interviewing,Electrical Engineer
+499,Shaurya,Joshi,Manipal Institute of Technology,Business Administration,8.3,2024,"Financial Modeling, Excel",No,Offered,Business Analyst
+500,Ishani,Sharma,Carnegie Mellon University,Data Science,3.8,2026,"Python, SQL",Yes,Applied,Data Analyst
